@@ -1,6 +1,7 @@
 #openjdk:8-jdk-alpine
 #eclipse-temurin:8-jdk-jammy
-houwm/jdk8:arm64
+#houwm/jdk8:arm64
+alpine/git
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
