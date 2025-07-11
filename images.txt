@@ -2,7 +2,7 @@
 #eclipse-temurin:8-jdk-jammy
 #houwm/jdk8:arm64
 #arm64v8/zookeeper:3.8.2
-arm64v8/rabbitmq:3.13.1-management-alpine
+arm64v8/rabbitmq:3.13.2
 
 
 #支持私库
