@@ -2,12 +2,12 @@
 #eclipse-temurin:8-jdk-jammy
 #houwm/jdk8:arm64
 #arm64v8/zookeeper:3.8.2
-arm64v8/rabbitmq:3.13.2-management
+arm64v8/rabbitmq:4
 
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 
